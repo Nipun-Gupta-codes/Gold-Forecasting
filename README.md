@@ -6,10 +6,6 @@ This project combines time-series forecasting, financial feature engineering, LS
 
 ---
 
-## Live Demo
-```text
-https://aashutoshgoldapp.streamlit.app/
-```
 
 ---
 
