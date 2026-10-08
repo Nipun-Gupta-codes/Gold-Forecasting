@@ -294,7 +294,7 @@ commodity/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aashutosh4all/Gold-Forecasting-.git
+git clone https://github.com/Nipun-Gupta-codes/Gold-Forecasting.git
 cd Gold-Forecasting-
 ```
 
